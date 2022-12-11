@@ -21,6 +21,7 @@ header h1 {
     font-size: 48px;
 }
 
+/* id to style letters 'seo' in middle of Horiseon name */
 #seo {
     color: #d9dcd6;
 }
@@ -46,6 +47,7 @@ a {
     text-decoration: none;
 }
 
+/* underline main NAV links when clicked */
 a:hover {
     text-decoration:underline;;
 }
@@ -54,6 +56,7 @@ p {
     font-size: 16px;
 }
 
+/* central page image */
 .main-photo {
     height: 800px;
     width: 100%;
@@ -63,11 +66,13 @@ p {
     background-position: center;
 }
 
+/* float image to allow inline description */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* float image to allow inline description */
 .float-right {
     float: right;
     margin-left: 25px;
@@ -79,6 +84,7 @@ main {
     margin-left: 20px;
 }
 
+/* side bar to right of main content */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -89,6 +95,7 @@ aside {
     background-color: #2589bd;
 }
 
+/* class for side bar benefits */
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
@@ -105,6 +112,7 @@ aside {
     max-width: 150px;
 }
 
+/* class for main body sections */
 .service {
     margin-bottom: 20px;
     padding: 50px;
