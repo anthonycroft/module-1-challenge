@@ -21,7 +21,7 @@ allow for readability and maintenance of the code.
 
 ## Deployed Link:
 
-https://github.com/anthonycroft/module-1-challenge
+https://anthonycroft.github.io/module-1-challenge/
 
 ## Repo Link:
 
